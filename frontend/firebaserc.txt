@@ -1,5 +1,5 @@
 {
   "projects": {
-    "default": "cal-frontendd"
+    "default": "VicharanaShala-CALM"
   }
 }
