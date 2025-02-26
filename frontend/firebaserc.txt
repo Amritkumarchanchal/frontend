@@ -1,5 +1,5 @@
 {
   "projects": {
-    "default": "VicharanaShala-CALM"
+    "default": "vicharanashala-calm"
   }
 }
