@@ -657,7 +657,7 @@ const ContentScrollView = () => {
     return (
       <div className='justify-top flex h-screen w-full flex-col bg-gray-50 px-8 pb-8 pt-4 text-gray-800 shadow-lg'>
         <div className='mb-16 ml-auto flex items-center gap-4'>
-          <AddQuestion />
+          {/* <AddQuestion /> */}
           Time Remaining:{' '}
           <span className='font-bold text-red-500'>{countdown} seconds</span>
         </div>
